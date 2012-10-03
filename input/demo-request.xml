@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<emails>
+	<note>
+	    <to>Tove</to>
+	    <from>Jani</from>
+	    <heading>Reminder</heading>
+	    <body>Don't forget me this weekend!</body>
+		<assignments>
+			<id>123</id><name>There my tasks with random string</name>
+			<id>123</id><name>There my tasks with random string</name>
+		</assignments>
+	</note>
+	<note>
+	    <to>Tove</to>
+	    <from>Jani</from>
+	    <heading>Reminder</heading>
+	    <body>Don't forget me this weekend!</body>
+		<assignments>
+			<id>123</id><name>There my tasks with random string</name>
+			<id>123</id><name>There my tasks with random string</name>
+			<date>today</date>
+		</assignments>
+	</note>	
+</emails>

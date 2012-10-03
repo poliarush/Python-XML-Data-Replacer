@@ -1,0 +1,9 @@
+%variable=value
+
+//id	n|??????
+//heading	%variable
+//from	replace just string
+//note[1]//name	s|randomly generated string ????
+//date	d|today+14d
+#this is a comment
+#new line and empty lines are ignored 

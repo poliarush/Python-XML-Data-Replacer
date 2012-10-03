@@ -1,0 +1,23 @@
+<emails>
+	<note>
+	    <to>Tove</to>
+	    <from>replace just string</from>
+	    <heading>value</heading>
+	    <body>Don't forget me this weekend!</body>
+		<assignments>
+			<id>351049</id><name>randomly generated string VmlU</name>
+			<id>985232</id><name>randomly generated string PeGI</name>
+		</assignments>
+	</note>
+	<note>
+	    <to>Tove</to>
+	    <from>replace just string</from>
+	    <heading>value</heading>
+	    <body>Don't forget me this weekend!</body>
+		<assignments>
+			<id>396260</id><name>There my tasks with random string</name>
+			<id>599583</id><name>There my tasks with random string</name>
+			<date>2012-10-17T15:58:47Z</date>
+		</assignments>
+	</note>	
+</emails>
